@@ -37,19 +37,3 @@ streamlit run app.py
 ## Requirements
 
 The application requires Python 3.11 along with the dependencies listed in the `requirements.txt` file. Ensure that you have the necessary libraries installed before running the application.
-
-## Contributing
-
-Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or wish to add new features, please feel free to open an issue or submit a pull request.
-
-
-## Acknowledgments
-
-We acknowledge the contribution of Google for developing the Gemini Pro Generative AI model and making it available for use. Special thanks to the Streamlit team for providing an excellent platform for building interactive web applications.
-
----
-
-Feel free to customize this README according to your project's specific details and preferences.
-This repository contains code for a Streamlit web application that leverages Google's Generative AI model (Gemini Pro) to answer questions based on user input. The app allows users to input questions and receive generated responses from the model. It integrates with the Google Generative AI API and provides a simple and interactive interface for exploring the capabilities of the model.
-
-
